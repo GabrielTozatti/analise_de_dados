@@ -1,6 +1,4 @@
 # Análise de Dados - Redução Estratégica da Taxa de Cancelamento
-<p>Uma Análise Baseada em Dados. É uma análise aprofundada dos dados de cancelamento de assinaturas. O objetivo principal é identificar os principais fatores que levam ao cancelamento e, em seguida, implementar estratégias para mitigar esses fatores e reduzir a taxa de cancelamento.</p>
-
 <h2>Funcionalidades:</h2>
 <ul>
     <li>O projeto começa com a importação e visualização dos dados de cancelamento. Isso inclui a remoção de colunas desnecessárias e a limpeza dos dados para garantir a precisão da análise.</li>
