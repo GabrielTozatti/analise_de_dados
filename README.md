@@ -1,5 +1,5 @@
 # Análise de Dados
-<p>É uma ferramenta desenvolvida em Python para simplificar e agilizar o processo de cadastro de produtos em um sistema online. Este projeto utiliza a biblioteca PyAutoGUI para automatizar as interações do usuário com a interface gráfica, eliminando a necessidade de entrada manual de dados.</p>
+<p>Redução Estratégica da Taxa de Cancelamento: Uma Análise Baseada em Dados. É uma análise aprofundada dos dados de cancelamento de assinaturas. O objetivo principal é identificar os principais fatores que levam ao cancelamento e, em seguida, implementar estratégias para mitigar esses fatores e reduzir a taxa de cancelamento.</p>
 
 <h2>Funcionalidades:</h2>
 <ul>
