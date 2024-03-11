@@ -1,6 +1,6 @@
 # Análise de Dados - Redução Estratégica da Taxa de Cancelamento
-<h2>Funcionalidades:</h2>
 <p>O projeto realiza uma análise aprofundada dos dados de cancelamento de assinaturas. Ele identifica quatro fatores principais que contribuem para o cancelamento: idade do cliente, número de chamadas para o call center, dias de atraso no pagamento e tipo de assinatura. Com base nesses fatores, o projeto implementa melhorias nos dados e reavalia a taxa de cancelamento.</p>
+<h2>Funcionalidades:</h2>
 <ul>
     <li>Importação e visualização dos dados de cancelamento, remoção de colunas desnecessárias e limpeza dos dados.</li>
     <li>Identificação dos principais fatores que levam ao cancelamento de assinaturas.</li>
